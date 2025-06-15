@@ -1,7 +1,6 @@
 # -----------------
 # DATASET ROOTS
 # -----------------
-cifar_10_root = '${DATASET_DIR}/cifar10'
 cub_root = '${DATASET_DIR}/cub'
 
 
